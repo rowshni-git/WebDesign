@@ -1,4 +1,4 @@
 # WebDesign
 Bootstrap, jQuery, HTML CSS, OWL Caroursel
 
-![alt text](https://raw.githubusercontent.com/rowshni-git/WebDesign/Master/path/to/mobile.png)
+![alt text](https://raw.github.com/rowshni-git/WebDesign/Master/path/to/mobile.png)
